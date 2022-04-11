@@ -98,7 +98,7 @@ div#q-loading-bar { display: none!important; } /* makes sure there's no ajax loa
 #playerhud {
   position: absolute;
   display: flex;
-  left: 3vh;
+  left: 78vh;
   bottom: 0.2vw;
 }
 
